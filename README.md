@@ -66,4 +66,11 @@ Here’s a list of all the commands I’ve stored in this repo:
 - `:%s/old/new/g` — Replace all occurrences of `old` with `new` 🔄
 - `:noh` — Remove search highlight 🚫
 
+## Super helpful
+### Copy and replace text inside quotes
+ - `yi"` to yank text inside double quotes
+ - `:%s/` to search and replace
+ - `ctrl + r` then `"` to past yanked text
+ - `/<text-to-replace-with>` and `enter`
+
 
