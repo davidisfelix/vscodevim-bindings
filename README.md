@@ -34,6 +34,7 @@ Text objects allow you to quickly select or manipulate parts of your text.
 - `ya'` — Yank everything **inside single quotes** **including the quotes** 📝
 - `vi"` — Visually select everything **inside double quotes** 🔲
 - `va"` — Visually select everything **inside double quotes** **including the quotes** 🔲
+- `D` - Delete everything after cursor
 
 ---
 
