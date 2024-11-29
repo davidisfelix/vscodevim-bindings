@@ -2,7 +2,6 @@
 
 Welcome to my personal repository where I store all the most commonly used **VS Code Vim commands**. This is a collection of useful shortcuts and commands that enhance my productivity when using **Vim** inside **VS Code**.
 
-Feel free to explore and contribute to the list!
 
 ## 📝 Table of Contents
 
